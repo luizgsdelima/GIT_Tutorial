@@ -7,9 +7,14 @@
 
 * git add .   // adiciona tudo
 
+* git branch   // gerencia novas linhas
+
 * git checkout // troca de linha do tempo
+* git checkout -b {branch name} // cria uma branch rapido
+
 * git merge    // une linhas do tempo
 * git push     // envia as alterações pro repositório remoto
 
+* git clone {url pelo github}
 
-ls -al      // mostra as alterações
+* ls -al      // mostra as alterações
